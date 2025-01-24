@@ -33,14 +33,7 @@ Then also following dependencies through cmd prompt:
 * `myExtension.thing`: Set to `blah` to do something.
 
 ## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
+First release
 
 
 
